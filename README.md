@@ -12,4 +12,4 @@
 ## Datos
 
 Los datos fueron obtenidos de:
-[INEGI](www.inegi.org.mx)
+[INEGI](inegi.org.mx)
